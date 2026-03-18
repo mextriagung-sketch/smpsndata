@@ -293,7 +293,7 @@ export default function App() {
 
                   <div className="space-y-2">
                     <label className="text-sm font-medium flex items-center gap-2">
-                      <Users size={14} className="text-[#5A5A40]" /> Jenis Kelamin Siswa
+                      <Users size={14} className="text-[#5A5A40]" /> Jenis Kelamin
                     </label>
                     <select
                       className="w-full bg-[#F5F5F0] border-none rounded-xl p-4 focus:ring-2 focus:ring-[#5A5A40]/20 transition-all appearance-none"

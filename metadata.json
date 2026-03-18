@@ -1,0 +1,5 @@
+{
+  "name": "SiswaSheet - Input Data Siswa",
+  "description": "Aplikasi input data siswa terintegrasi dengan Google Sheets untuk pencarian dan pembaruan data.",
+  "requestFramePermissions": []
+}
